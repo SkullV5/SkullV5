@@ -3,7 +3,6 @@
 ## I'm a IT engeneering student and software developer!!
 
 - 🌱 I’m currently learning everything 👨‍💻
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about AI
 - ⚡ Fun fact: I love to go for a run and play guitar
 
