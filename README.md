@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/estrella-dev/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/estrella-dev/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/estrella-dev#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/estrella-dev#gh-dark-mode-only)
 
 ### Languages and Tools:
 
