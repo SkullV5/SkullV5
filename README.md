@@ -1,6 +1,6 @@
 # Hi there, I'm Andy 👋 
 
-## I'm a IT engeneering student and software developer!!
+## I'm a IT engeneering student and software developer
 
 - 🌱 I’m currently learning everything 👨‍💻
 - 🥅 2022 Goals: Learn more about AI
