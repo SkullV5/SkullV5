@@ -2,9 +2,9 @@
 
 ## I'm a IT engeneering student and software developer
 
-- 🌱 I’m currently learning everything 👨‍💻
+- 🌱 I’m currently working with C# 👨‍💻
 - 🥅 2022 Goals: Learn more about AI
-- ⚡ Fun fact: I love to go for a run and play guitar
+- ⚡ Fun fact: I love to go for a run and play videogames
 
 ### Connect with me:
 
