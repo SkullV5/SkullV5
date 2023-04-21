@@ -1,10 +1,10 @@
 # Hi there, I'm Andy 👋 
 
-## I'm a IT engeneering student and software developer
+## I'm a software developer
 
-- 🌱 I’m currently working with C#
-- 🥅 2022 Goals: Learn more about AI
-- ⚡ Fun fact: I love to go for a run and play videogames
+- 🌱 Experienced cross-platform developer
+- 🥅 Skilled in web and mobile development with HTML/CSS, JavaScript, Angular, React, Ionic Framework and MySQL
+- ⚡ Proficient in interface design with Figma and passionate about learning new technologies
 
 ### Connect with me:
 
