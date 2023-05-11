@@ -4,7 +4,7 @@
 
 - 🌱 Experienced cross-platform developer
 - 🥅 Skilled in web and mobile development with HTML/CSS, JavaScript, Angular, React, Ionic Framework and MySQL
-- ⚡ Proficient in interface design with Figma and passionate about learning new technologies
+- ⚡ Proficient in interface design and passionate about learning new technologies
 
 ### Connect with me:
 
